@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 update by user 1
+=======
+
+>>>>>>> b316befb0b0c5cf20fcb041610baedd51a4f2dbc
